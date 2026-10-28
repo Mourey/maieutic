@@ -1,0 +1,13 @@
+maieutic
+Copyright (C) 2026 Rodrigo Mourey
+
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU Affero General Public License as published by the Free
+Software Foundation, version 3 only. See LICENSE.
+
+This project adapts work from LearnHarness
+(https://github.com/amosblomqvist/learnharness), Copyright (C) Amos Blomqvist,
+licensed under AGPL-3.0-only. Adapted material (teaching-method prompt
+doctrine, question/plan schemas and validators) is identified in each file's
+header with the upstream path and the upstream commit it was derived from.
+Baseline upstream commit: 3dc8847 (LearnHarness 0.3.8).
